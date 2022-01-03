@@ -1,0 +1,11 @@
+C:\Users\rpfilho\Desktop\My Things\DevOps\Diferentator\Diferentator\bin\Debug\netcoreapp2.1\Diferentator.deps.json
+C:\Users\rpfilho\Desktop\My Things\DevOps\Diferentator\Diferentator\bin\Debug\netcoreapp2.1\Diferentator.runtimeconfig.json
+C:\Users\rpfilho\Desktop\My Things\DevOps\Diferentator\Diferentator\bin\Debug\netcoreapp2.1\Diferentator.runtimeconfig.dev.json
+C:\Users\rpfilho\Desktop\My Things\DevOps\Diferentator\Diferentator\bin\Debug\netcoreapp2.1\Diferentator.dll
+C:\Users\rpfilho\Desktop\My Things\DevOps\Diferentator\Diferentator\bin\Debug\netcoreapp2.1\Diferentator.pdb
+C:\Users\rpfilho\Desktop\My Things\DevOps\Diferentator\Diferentator\obj\Debug\netcoreapp2.1\Diferentator.csproj.CoreCompileInputs.cache
+C:\Users\rpfilho\Desktop\My Things\DevOps\Diferentator\Diferentator\obj\Debug\netcoreapp2.1\Diferentator.AssemblyInfoInputs.cache
+C:\Users\rpfilho\Desktop\My Things\DevOps\Diferentator\Diferentator\obj\Debug\netcoreapp2.1\Diferentator.AssemblyInfo.cs
+C:\Users\rpfilho\Desktop\My Things\DevOps\Diferentator\Diferentator\obj\Debug\netcoreapp2.1\Diferentator.dll
+C:\Users\rpfilho\Desktop\My Things\DevOps\Diferentator\Diferentator\obj\Debug\netcoreapp2.1\Diferentator.pdb
+C:\Users\rpfilho\Desktop\My Things\DevOps\Diferentator\Diferentator\obj\Debug\netcoreapp2.1\Diferentator.csprojAssemblyReference.cache

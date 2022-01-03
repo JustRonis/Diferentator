@@ -35,7 +35,7 @@ namespace Diferentator
             string capaPath = @"\\capa\c$\inetpub\Win.Services\Robots";
             System.IO.DirectoryInfo dir1 = new System.IO.DirectoryInfo(capaPath);
             IEnumerable<System.IO.FileInfo> list1 = dir1.GetFiles("*.*", System.IO.SearchOption.AllDirectories);
-            
+
 
             foreach (var server in servers) {
                 Console.WriteLine($"█████████████████████████████████      {server}      █████████████████████████████████");
@@ -49,14 +49,19 @@ namespace Diferentator
 
                 Console.WriteLine("");
 
-                Console.WriteLine("The following files are in list1 but not list2:");
+                Console.WriteLine($"Os seguintes arquivos abaixo estão presentes no capa mas não em {server}");
+                Console.WriteLine("");
                 foreach (var v in queryList1Only)
                 {
                     Console.WriteLine(v.FullName);
                 }
 
                 // Keep the console window open in debug mode.  
-                Console.WriteLine("Press any key to exit.");
+                Console.WriteLine("");
+                Console.WriteLine("");
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine("Pressione qualquer tecla para avançar para o próximo ambiente.");
+                Console.ForegroundColor = ConsoleColor.White;
                 Console.ReadKey();
             }
 
